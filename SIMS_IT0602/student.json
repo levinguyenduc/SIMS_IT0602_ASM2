@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 3,
+    "Name": "Nguyen Hai Nam",
+    "DoB": "2004-09-02",
+    "Email": "namnh05@gmail.com",
+    "Address": "Ha Noi",
+    "Major": "Graphic Design"
+  },
+  {
+    "Id": 4,
+    "Name": "Ngo Quang Tung Bach",
+    "DoB": "2004-01-14",
+    "Email": "bachnq01@gmail.com",
+    "Address": "Hung Yen",
+    "Major": "Graphic Design"
+  },
+  {
+    "Id": 123,
+    "Name": "Dinh Phu Hoan",
+    "DoB": "2024-01-01",
+    "Email": "hhh2792004@gmail.com",
+    "Address": "Lang giang",
+    "Major": "IT"
+  },
+  {
+    "Id": 0,
+    "Name": null,
+    "DoB": "0001-01-01",
+    "Email": null,
+    "Address": null,
+    "Major": null
+  },
+  {
+    "Id": 1,
+    "Name": "ly",
+    "DoB": "0001-01-01",
+    "Email": "ly@gmail.com",
+    "Address": null,
+    "Major": null
+  }
+]

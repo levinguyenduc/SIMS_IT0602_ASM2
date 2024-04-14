@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 3,
+    "Name": "SDLC",
+    "Class": "IT0602",
+    "Major": "IT",
+    "Lecturer": "Nguyen Thanh Trieu",
+    "Status": "Active",
+    "Teacher": null
+  },
+  {
+    "Id": 1,
+    "Name": "hoan dinh",
+    "Class": "IT0601",
+    "Major": "IT",
+    "Lecturer": "Do Quoc Binh",
+    "Status": null,
+    "Teacher": null
+  }
+]
